@@ -1,0 +1,183 @@
+@media only screen and (max-width: 600px) {
+    /* Styles for screens less than or equal to 600px wide */
+    header {
+      height: 60px;
+    }
+    body{
+        overflow-x:hidden ;
+    }
+    .myportf{
+        margin: -22px 0px 0px 0px;
+    }
+    .container{
+        display: list-item;
+    }
+    .logo {
+      width: 120px;
+      margin-left:15px;
+    }
+    .head {
+      text-align: center;
+      display: list-item;
+    }
+    .h1 {
+        font-size: 42px;
+        width: 400px;
+        margin: 200px 0px 0px 20px;
+    }
+    .sec1 {
+        display: contents;
+    }
+    .sphere{
+        margin: 35px 0px 0px 20px;
+        width: 400px;
+    }
+    .me{
+        margin: 25px 0px 0px 20px;
+        width: 400px;
+    }
+    .logo_exp {
+    margin: 150px 0px 0px 240px;
+    }
+    h2 {
+    margin: 25px 0px 0px 200px;
+    }
+    .exp {
+    margin: 10px 0px 0px 145px;
+    }
+    .one{
+    height: 54px;
+    }
+    .dva{
+        height: 54px;
+    }
+    h4{
+        margin: 25px 0px 0px 168px;
+    }
+    .exp-2 {
+    margin: 10px 0px 0px 145px;
+}
+.infor_portfolio {
+    display: list-item;
+    margin: 85px 0px 0px 20px;
+}
+h5 {
+    font-size: 45px;
+    margin: 25px 0px 0px 10px;
+    width: 425px;
+}
+  h6 {
+    margin: 0px 0px 32px 35px;
+}
+.container1 {
+        display: list-item;
+        margin: 0px 0px 30px 0px;
+    }
+    .container_foot {
+        display: list-item;
+        column-gap: 400px;
+    }
+    .left_parth2 {
+        margin: 58px 0px 14px 25px;
+    }
+    .portfolio{
+        margin-top: 40px;
+    }
+    .right_parth2{
+        margin: 20px 0px 0px 20px;
+    }
+    .a{
+        margin-left:20px;
+    }
+    .expiriens {
+    margin: 107px 0px 0px 20px;
+}
+.dates {
+    margin: 0px 0px 0px 180px;
+}
+.dates2 {
+    margin: 0px 0px 0px 140px;
+}
+}
+  
+  /* Tablet Styles */
+  @media only screen and (min-width: 601px) and (max-width: 1024px) {
+    header {
+      height: 80px;
+    }
+    body{
+        overflow-x:hidden ;
+    }
+    .container{
+        justify-content: normal;
+    }
+    .h1 {
+        font-size: 48px;
+        width: 700px;
+        margin: 260px 0px 0px 35px;
+    }
+    .container .logo {
+        margin: 35px 0px 0px 40px;
+    }
+    .sec1 {
+        display: contents;
+    }
+    .me{
+        margin: 35px 0px 0px 35px;
+    }
+    .sphere {
+        margin: 35px 0px 0px 43px;
+        column-gap: 15px;
+    }
+    .a{
+        margin-left:40px;
+    }
+    .logo_exp {
+        margin: 150px 0px 0px 380px;
+    }
+    h2{
+        margin: 25px 0px 0px 340px;
+    }
+    .exp{
+        margin: 10px 0px 0px 270px;
+    }
+    .expiriens {
+        margin: 107px 0px 0px 35px;
+    }
+    h4{
+        margin: 25px 0px 0px 315px;
+    }
+    .exp-2 {
+        margin: 10px 0px 0px 285px;
+    }
+    .infor_portfolio {
+        margin: 85px 0px 0px 35px;
+    }
+    h5{
+        width: 300px;
+    }
+    h6{
+        margin: 0px 0px 32px 35px;
+    }
+    .container1 {
+        display: list-item;
+        margin: 0px 0px 30px 0px;
+    }
+    .container_foot {
+        display: flex;
+        column-gap: 400px;
+    }
+    .left_parth2 {
+        margin: 70px 0px 120px 35px;
+    }
+    .dates {
+    margin: 0px 0px 0px 250px;
+}
+.dates2 {
+    margin: 0px 0px 0px 192px;
+}
+  }
+  
+  @media only screen and (min-width: 1025px) {
+    
+    }
